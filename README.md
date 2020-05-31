@@ -1,4 +1,4 @@
-# Fashion_MINST_Autoencoder
+# Fashion_MINST_convolutional_autoencoder
 Fashion Minst Autoencoder
 
 
